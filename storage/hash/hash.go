@@ -2,7 +2,7 @@ package hash
 
 import (
 	"fmt"
-	// "github.com/metakeule/context"
+	// "gopkg.in/metakeule/context.v1"
 	"reflect"
 	"sync"
 )

@@ -25,8 +25,8 @@ Usage
     package main
 
     import (
-        "github.com/metakeule/context"
-        "github.com/metakeule/context/storage/hash"
+        "gopkg.in/metakeule/context.v1"
+        "gopkg.in/metakeule/context.v1/storage/hash"
     )
 
     // you typically want to save structs, keep in mind that 
